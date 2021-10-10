@@ -1,0 +1,60 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.margin-name {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+.hrh-pic {
+  margin-top: 2rem;
+  width: 15rem;
+  height: 15rem;
+  border-radius: 50%;
+  z-index: 1;
+}
+
+.nav-link {
+  margin-right: 200px;
+  margin-left: 200px;
+}
+
+/* .nav-link:hover {
+  color: #ed1212;
+  cursor: pointer;
+} */
+
+/* .berlin {
+  background-image: url(./components/images/Berlin.jpg) no-repeat center center
+    fixed;
+  background-size: cover;
+  height: 100%;
+  overflow: hidden;
+} */
+
+.bg-color {
+  background-color: pink;
+  height: 100%;
+}
+
+p {
+  width: 35vw;
+  height: 52vh;
+  text-align: justify;
+  margin: 0 auto;
+  font-size: 25px;
+  font-weight: bolder;
+  color: #40000b;
+  font-family: Roboto, "Helvetica Neue";
+}
